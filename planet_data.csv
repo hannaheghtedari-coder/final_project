@@ -1,0 +1,4 @@
+planet,albedo,solar_flux_Wm2,actual_temp_K,pressure_bar,co2_fraction
+Venus,0.77,2613,735,92.0,0.965
+Earth,0.3,1361,288,1.0,0.0004
+Mars,0.25,590,210,0.006,0.95
